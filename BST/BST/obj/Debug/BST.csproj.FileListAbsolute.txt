@@ -1,0 +1,2 @@
+D:\Visual Studio 2022\C#\BST\BST\obj\Debug\BST.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\C#\BST\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache

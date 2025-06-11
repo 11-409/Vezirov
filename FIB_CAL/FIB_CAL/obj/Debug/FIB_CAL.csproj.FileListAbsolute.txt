@@ -1,0 +1,7 @@
+D:\Visual Studio 2022\C#\FIB_CAL\FIB_CAL\bin\Debug\FIB_CAL.exe.config
+D:\Visual Studio 2022\C#\FIB_CAL\FIB_CAL\bin\Debug\FIB_CAL.exe
+D:\Visual Studio 2022\C#\FIB_CAL\FIB_CAL\bin\Debug\FIB_CAL.pdb
+D:\Visual Studio 2022\C#\FIB_CAL\FIB_CAL\obj\Debug\FIB_CAL.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\C#\FIB_CAL\FIB_CAL\obj\Debug\FIB_CAL.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\C#\FIB_CAL\FIB_CAL\obj\Debug\FIB_CAL.exe
+D:\Visual Studio 2022\C#\FIB_CAL\FIB_CAL\obj\Debug\FIB_CAL.pdb
